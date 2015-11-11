@@ -25,6 +25,8 @@ project.xcworkspace
 taskArtifacts/
 local.properties
 
+#.iml
+*.iml
 
 # node.js
 #
